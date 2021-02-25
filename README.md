@@ -43,3 +43,7 @@ This will run the frontend at http://localhost:3000 and the Sanity Studio at htt
 ## Credits
 
 The e-commerce frontend is built with Tailwind components by [khatabwedaa](https://tailwindcomponents.com/u/khatabwedaa).
+
+https://next-js-e-commerce-git-master.rupamkairi.vercel.app/
+
+https://next-js-e-commerce-git-master.rupamkairi.vercel.app/studio
